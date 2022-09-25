@@ -23,7 +23,7 @@ wget http://8.219.130.70:8002/download/ICW_Wallet.tar
 Note : tergantung dari kecepatan download vps kalian
 
 ```
-tar –xvf ICW_Wallet .tar
+tar –xvf ICW_Wallet.tar
 ```
 ```
 rm -rf ICW_Wallet.tar
